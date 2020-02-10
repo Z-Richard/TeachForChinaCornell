@@ -5,7 +5,7 @@
 
 <p>Scenes:</p>
 <ul>
-<li>开头：生活场景，snow day; One Day in Life；坐标：(42.45 N, 76.77 E)</li>
+<li>开头：生活场景，snow day; One Day in Life；坐标：(42.45 N, 76.48 E)</li>
 <li>标题：eye-catching，有意思</li>
 <li>主题：留学生学习与生活的趣事【大家想了解的话题】，欧美文化差异</li>
 <li>形式：Talk Show 对话，稳中带皮？</li>
